@@ -1,5 +1,8 @@
 # Nuggt: An LLM Agent that Runs on React Component Event Capture Data
 
+1. [Join Discord for issues and troubleshooting](https://discord.gg/4u4ZvTp4)
+2. [Follow on X for updates](https://x.com/LoyaShoib)
+
 Nuggt is an LLM-powered agent that helps optimize user experiences by analyzing event data captured in React components. This project integrates with Firebase to store event data, utilizes analytics to track user interactions, and generates decision cards to suggest improvements based on user behavior. The LLM agent can assist in making decisions and generating code based on the insights derived from these decision cards.
 
 
