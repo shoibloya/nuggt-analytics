@@ -1,0 +1,11 @@
+streamlit==latest
+code_editor==latest
+openai==latest
+google.cloud.firestore==latest
+langchain==latest
+streamlit-shadcn-ui==latest
+pandas==latest
+psutil==latest
+langchain-experimental==latest
+langchain-openai
+langchain-core==latest
