@@ -18,6 +18,9 @@ cd <your-repo-directory>
 
 # Install the required dependencies
 pip install -r requirements.txt
+
+# Run streamlit
+streamlit run app.py
 ```
 
 ## Overview
@@ -40,7 +43,7 @@ To get started, follow these steps to set up your environment:
 
 3. **Add Your Next.js Project**:
     - Place your Next.js project in the `uploaded_projects` folder.
-    - The `SessionWrapper.tsx` and `SessionContext.tsx` files are already available in the repo.
+    - The `SessionWrapper.tsx` and `SessionContext.tsx` files are already available in the repo. Instructions on how to set this up is on the instructions page (app.py)
   
 4. **Set up Firebase**:
     - Create a `firebase.js` file under the `lib` folder to configure Firebase and Firestore.
