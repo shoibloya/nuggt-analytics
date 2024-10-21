@@ -3,6 +3,8 @@
 Nuggt is an LLM-powered agent that helps optimize user experiences by analyzing event data captured in React components. This project integrates with Firebase to store event data, utilizes analytics to track user interactions, and generates decision cards to suggest improvements based on user behavior. The LLM agent can assist in making decisions and generating code based on the insights derived from these decision cards.
 
 
+https://github.com/user-attachments/assets/8b64d89c-9038-4660-a2ce-3cb44d190639
+
 
 ```bash
 # Clone the repository
